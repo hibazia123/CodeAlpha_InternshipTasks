@@ -1,2 +1,12 @@
-# CodeAlpha_ProjectName
-A collection of projects and assignments completed as part of my Code Alpha internship. This repository demonstrates my skills in C++, object-oriented programming, and system design.
+# Code Alpha Internship
+
+This repository contains the tasks assigned to me during my internship at Code Alpha.
+
+## Technologies Used
+- C++
+- Object-Oriented Programming
+- Data Structures
+
+## Tasks Completed
+1. Banking System
+Author: Hiba Zia
