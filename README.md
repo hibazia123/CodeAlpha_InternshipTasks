@@ -9,4 +9,5 @@ A collection of projects and assignments completed as part of my Code Alpha inte
 
 ## Tasks Completed
 1. Banking System
+2. CGPA Calculator 
 Author: Hiba Zia
